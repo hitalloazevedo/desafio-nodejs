@@ -9,9 +9,16 @@ Tecnologias e bibliotecas necessárias
 
 ##### Rodando o projeto
 Faça um fork do projeto para sua conta do Github.
-![alt text](image.png)
 
-![alt text](image-1.png)
+<div>
+  <h3>1º passo</h3>
+  <img src="image.png">
+</div>
+
+<div>
+  <h3>2º passo</h3>
+  <img src="image-1.png">
+</div>
 
 Após criar sua própria cópia (fork), clone o projeto para o seu computador.
 
