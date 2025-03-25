@@ -37,3 +37,9 @@ Imagine que você quer criar um site onde os usuários possam enviar mensagens e
 ## 👌 Resumo:
 
 O Node.js é uma ferramenta poderosa para quem quer desenvolver aplicativos rápidos e escaláveis. Ele ampliou o poder do JavaScript para além dos navegadores, permitindo criar desde APIs simples até grandes sistemas de backend. Se você quer aprender uma tecnologia moderna e amplamente usada no mercado, o Node.js é uma excelente escolha!
+
+[Baixar o Node.js](https://nodejs.org/pt)
+
+[Video tutorial de como instalar o Node.js]([https://www.youtube.com/watch?v=Am46OOLgV4s](https://www.youtube.com/watch?v=7hKJlcluCW0))
+
+<a href="../README.md">Voltar para o documento principal</a>
