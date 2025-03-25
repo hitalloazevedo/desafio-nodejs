@@ -6,12 +6,24 @@ Consulte a descrição do desafio em [requisitos do sistema](./instructions/desc
 
 Consulte a estrutura do projeto em [estrutura do projeto](./instructions/project-arch.md)
 
-Tecnologias e bibliotecas necessárias
+#### O que você precisa instalar no seu computador?
 - Node.js Javascript Runtime - [Baixar](https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi)
-- Express.js
+- GIT - [Baixar 64bits](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe) ou [Baixar 32bits](https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/Git-2.48.1-32-bit.exe)
+- Visual Studio Code - [Baixar](https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeUserSetup-x64-1.98.2.exe)
 
-##### Rodando o projeto
-Faça um fork do projeto para sua conta do Github.
+### Guias básicos
+#### [O que é git?](./git)
+#### [O que é node?](./node)
+#### [O que é express?](./express)
+#### [O que é visual studio code?](./express)
+
+
+
+### Como configurar o ambiente?
+- criar conta no github
+- fazer cópia do repositório
+- abrir o repositório instalar as dependências
+- iniciar o projeto
 
 <div>
   <h3>1º passo</h3>
