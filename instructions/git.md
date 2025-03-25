@@ -43,3 +43,5 @@ O Git é uma ferramenta poderosa para qualquer pessoa que trabalhe com projetos 
 [Baixar o Git](https://git-scm.com/downloads)
 
 [Video tutorial de como instalar o Git](https://www.youtube.com/watch?v=Am46OOLgV4s)
+
+<a href="../README.md">Voltar para o documento principal</a>
