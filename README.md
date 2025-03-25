@@ -7,9 +7,10 @@ Consulte a descrição do desafio em [requisitos do sistema](./instructions/desc
 Consulte a estrutura do projeto em [estrutura do projeto](./instructions/project-arch.md)
 
 #### O que você precisa instalar no seu computador? (Recomenda-se ter ~ 1.5GB de armazenamento livre)
-- Node.js Javascript Runtime - [Baixar](https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi)
-- GIT - [Baixar 64bits](https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe) ou [Baixar 32bits](https://github.com/git-for-windows/git/releases/download/v2.48.1.windows.1/Git-2.48.1-32-bit.exe)
-- Visual Studio Code - [Baixar](https://vscode.download.prss.microsoft.com/dbazure/download/stable/ddc367ed5c8936efe395cffeec279b04ffd7db78/VSCodeUserSetup-x64-1.98.2.exe)
+- Node.js Javascript Runtime - [Baixar](https://nodejs.org/pt)
+- GIT - [Baixar](https://git-scm.com/downloads)
+- Visual Studio Code - [Baixar](https://code.visualstudio.com/)
+- Postman - [Baixar](https://www.postman.com/downloads/)
 
 ### Guias básicos
 #### [O que é git?](./git)
