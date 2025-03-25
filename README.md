@@ -7,7 +7,7 @@ Consulte a descrição do desafio em [requisitos do sistema](./instructions/desc
 Consulte a estrutura do projeto em [estrutura do projeto](./instructions/project-arch.md)
 
 Tecnologias e bibliotecas necessárias
-- Node.js (versão 18 ou superior)
+- Node.js [Instalar](https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi)
 - Express.js
 
 ##### Rodando o projeto
