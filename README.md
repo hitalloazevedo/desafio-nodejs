@@ -13,10 +13,10 @@ Consulte a estrutura do projeto em [estrutura do projeto](./instructions/project
 - Postman - [Baixar](https://www.postman.com/downloads/)
 
 ### Guias básicos
-#### [O que é git?](./git)
-#### [O que é node?](./node)
-#### [O que é express?](./express)
-#### [O que é visual studio code?](./express)
+#### [O que é git?](./instructions/git)
+#### [O que é node?](./instructions/node)
+#### [O que é express?](./instructions/express)
+#### [O que é visual studio code?](./instructions/express)
 
 
 
