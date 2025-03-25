@@ -40,6 +40,6 @@ O Node.js é uma ferramenta poderosa para quem quer desenvolver aplicativos ráp
 
 [Baixar o Node.js](https://nodejs.org/pt)
 
-[Video tutorial de como instalar o Node.js]([https://www.youtube.com/watch?v=Am46OOLgV4s](https://www.youtube.com/watch?v=7hKJlcluCW0))
+[Video tutorial de como instalar o Node.js]([https://www.youtube.com/watch?v=Am46OOLgV4s](https://www.youtube.com/watch?v=7hKJlcluCW0)
 
 <a href="../README.md">Voltar para o documento principal</a>
