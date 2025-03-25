@@ -1,5 +1,5 @@
 ### Web API com Nodejs e Express
-Dois times foram alocados para trabalhar no projeto do Sr. Atira, e você foi alocado como desenvolvedor backend. E a seguir está o detalhamento dos requisitos do sistema.
+Dois times foram alocados para trabalhar no projeto do Sr. Atira, e você foi alocado como desenvolvedor backend. A seguir está o detalhamento dos requisitos do sistema que você precisa desenvolver.
 
 #### Casos de uso
 - Como usuário, quero cadastrar uma nova tarefa.
