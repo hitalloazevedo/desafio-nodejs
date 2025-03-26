@@ -12,4 +12,4 @@ O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diári
 #### [O que é visual studio code?](./instructions/express.md)
 
 ---
-<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="./coniguracao-ambiente.md">Próxima página</a></p>
+<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="./configuracao-ambiente.md">Próxima página</a></p>
