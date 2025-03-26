@@ -36,8 +36,8 @@ Consulte a estrutura do projeto em [estrutura do projeto](./instructions/project
   <img src="image-1.png">
 </div>
 
----
 
-<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="#">Próxima página</a></p>
 Após criar sua própria cópia (fork), clone o projeto para o seu computador.
 
+---
+<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="#">Próxima página</a></p>
