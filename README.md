@@ -2,7 +2,7 @@
 
 ### Importante
 <p>Olá candidato(a),</p>
-<p>Eu tenho um aviso <span>SUPER</span> importante para você, mas antes, meus parabéns pela sua iniciativa em querer participar da melhor empresa júnior do mundo (não espalhe esse segredo).</p>
+<p>Eu tenho um aviso <strong>SUPER</strong> importante para você, mas antes, meus <strong>parabéns</strong> pela sua iniciativa em querer participar da melhor empresa júnior do mundo (não espalhe esse segredo).</p>
 <p>Antes que você se assuste com o case individual, eu preciso te explicar como irá funcionar.</p>
 <p>Então, pegue um pipoca e aconchegue-se para ler este aviso, ou não, melhor prestar atenção aqui.</p>
 <p>Se você é um bixo que nem sabe o que é programação ainda, ou um veterano que nunca aprendeu programação Web, não se preocupe.</p>
@@ -15,7 +15,7 @@
 ---
 
 <p>E ai bora?</p>
-<p><a href="./instructions/desafio.md">Aceito este desafio!</a></p>
+<p><a href="./instructions/desafio.md">Aceito este desafio! 🚀</a></p>
 
 O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diárias. Buscando uma solução na internet, ele encontrou a Atria, uma empresa especializada em desenvolvimento de software com foco em inovação. Após conversar com os consultores comerciais, decidiu investir em um projeto de um aplicativo para gerenciamento de tarefas. Como pretende utilizar a solução em múltiplos dispositivos, será desenvolvido também um sistema web para centralizar e sincronizar as informações.
 
