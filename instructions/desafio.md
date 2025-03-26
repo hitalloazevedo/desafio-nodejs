@@ -1,8 +1,6 @@
 ## Contexto do desafio
 O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diárias. Buscando uma solução na internet, ele encontrou a Atria, uma empresa especializada em desenvolvimento de software com foco em inovação. Após conversar com os consultores comerciais, decidiu investir em um projeto de um aplicativo para gerenciamento de tarefas. Como pretende utilizar a solução em múltiplos dispositivos, será desenvolvido também um sistema web para centralizar e sincronizar as informações.
 
-[Configurar ambiente de desenvolvimento](./configuracao-ambiente.md)
-
 [Consultar requisitos do sistema](./instructions/description.md)
 
 [Consultar estrutura do projeto](./instructions/project-arch.md)
@@ -14,4 +12,4 @@ O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diári
 #### [O que é visual studio code?](./instructions/express.md)
 
 ---
-<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="#">Próxima página</a></p>
+<p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="./coniguracao-ambiente.md">Próxima página</a></p>
