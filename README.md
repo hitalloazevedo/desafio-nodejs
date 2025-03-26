@@ -1,5 +1,18 @@
 # desafio-nodejs
 
+### Importante
+<p>Olá candidato(a),</p>
+<p>Eu tenho um aviso <span>SUPER</span> importante para você, mas antes, meus parabéns pela sua iniciativa em querer participar da melhor empresa júnior do mundo (não espalhe esse segredo).</p>
+<p>Antes que você se assuste com o case individual, eu preciso te explicar como irá funcionar.</p>
+<p>Então, pegue um pipoca e aconchegue-se para ler este aviso, ou não, melhor prestar atenção aqui.</p>
+<p>Se você é um bixo que nem sabe o que é programação ainda, ou um veterano que nunca aprendeu programação Web, não se preocupe.</p>
+<p>Mas então como irá funcionar?</p>
+<p>Um desafio técnico está sendo proposto, na verdade um baita desafio. Mas o que está sendo avaliado é outra coisa.</p>
+<p>O entregável será um vídeo de até 5 minutos, um roteiro para o vídeo será disponibilizado. Além do vídeo com o seu relato, você irá entregar o código que foi desenvolvido por você. Mas e se eu não conseguir fazer a tempo? E se eu não aprender tudo o que precisa? E se meu código não funcionar? Depois nós vemos isso, como você já deve saber, para entrar na melhor empresa junior do mundo, você não precisa saber nada.</p>
+<p>Então não importa tanto se o seu código não funcionar, apesar que eu e você ficaria bem feliz se funcionasse =)</p>
+
+---
+
 O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diárias. Buscando uma solução na internet, ele encontrou a Atria, uma empresa especializada em desenvolvimento de software com foco em inovação. Após conversar com os consultores comerciais, decidiu investir em um projeto de um aplicativo para gerenciamento de tarefas. Como pretende utilizar a solução em múltiplos dispositivos, será desenvolvido também um sistema web para centralizar e sincronizar as informações.
 
 Consulte a descrição do desafio em [requisitos do sistema](./instructions/description.md)
