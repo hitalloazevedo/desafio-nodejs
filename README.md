@@ -9,7 +9,8 @@
 <p>Mas então como irá funcionar?</p>
 <p>Um desafio técnico está sendo proposto, na verdade um baita desafio. Mas o que está sendo avaliado é outra coisa.</p>
 <p>O entregável será um vídeo de até 5 minutos, <a href="#">roteiro para fazer o vídeo</a>. Além do vídeo com o seu relato, você irá entregar o código que foi desenvolvido por você. Mas e se eu não conseguir fazer a tempo? E se eu não aprender tudo o que precisa? E se meu código não funcionar? Depois nós vemos isso, como você já deve saber, para entrar na melhor empresa junior do mundo, você não precisa saber nada. Você irá aprender com a gente. Mas quem não gosta de um desafio?</p>
-<p>Então não importa tanto se o seu código não funcionar, apesar que eu e você ficaria bem feliz se funcionasse =)</p>
+<p>Então se seu código não funcionar, seu mundo não irá acabar, apesar que eu e você ficaria bem feliz se funcionasse =)</p>
+<p>Outros aspectos interpessoais serão avaliados, que vão além se sua API irá funcionar ou não, então o vídeo é muito importante, e a <strong>não entrega</strong> do vídeo resulta em desclassificação.</p>
 
 ---
 
