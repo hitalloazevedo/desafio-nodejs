@@ -1,4 +1,4 @@
-# desafio-nodejs
+# Case Individual - PS Atria Jr
 
 ### Importante
 <p>Olá candidato(a),</p>
