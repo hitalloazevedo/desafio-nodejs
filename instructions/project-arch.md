@@ -15,9 +15,9 @@ Controller (Controlador): O garçom — faz a ponte entre o pedido do cliente e 
 ### 📂 Estrutura de pastas usando MVC
 
 ```
-/MeuProjeto/
+/src/
 │── /models/       # Modelos de dados e lógica de negócios
-│── /controllers/  # Lógica para lidar com requisições e respostas
+│── /controllers/  # Lógica para lidar com requisições e respostas, as respostas fazem o papel do View, dispensando um pasta própria.
 │── /routes/       # Definição e organização das rotas da aplicação
 │── app.js         # Arquivo principal do projeto
 │── package.json   # Informações do projeto e dependências
