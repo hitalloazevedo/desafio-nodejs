@@ -1,76 +1,45 @@
-### 📌 Estrutura do Projeto Node.js
+# Estrutura de Projeto sugerida com Arquitetura MVC adptada.
 
-Este projeto segue a arquitetura em camadas, organizando o código de forma modular para facilitar manutenção e escalabilidade.
+### 📁 O que é a arquitetura MVC?
 
-#### 🏛 Arquitetura do Projeto
+A arquitetura MVC significa Model-View-Controller (Modelo-Visão-Controlador) e é uma abordagem para organizar projetos de maneira eficiente, separando responsabilidades. Isso facilita o desenvolvimento, a manutenção e a colaboração em equipe.
 
-A estrutura é baseada nos seguintes componentes:
+Imagine um restaurante:
 
-#### 📂 Repository (Repositório)
+Model (Modelo): O cardápio — define os pratos disponíveis (dados e regras de negócio).
 
-O Repository é responsável pelo acesso ao banco de dados. Ele contém métodos específicos para buscar, criar, atualizar e excluir registros, garantindo que essa lógica fique separada das demais camadas.
+View (visualização): O prato final — é o produto final que o usuário consome (resposta da API em Json).
 
-Responsabilidades:
+Controller (Controlador): O garçom — faz a ponte entre o pedido do cliente e a cozinha (processamento da lógica).
 
-📌 Comunicação direta com o banco de dados.
+### 📂 Estrutura de pastas usando MVC
 
-📌 Centralizar consultas e operações relacionadas a dados.
+```
+/MeuProjeto/
+│── /models/       # Modelos de dados e lógica de negócios
+│── /controllers/  # Lógica para lidar com requisições e respostas
+│── /routes/       # Definição e organização das rotas da aplicação
+│── app.js         # Arquivo principal do projeto
+│── package.json   # Informações do projeto e dependências
+```
 
-📌 Facilitar mudanças no banco sem afetar outras partes do sistema.
+### 🔧 Função de cada pasta:
 
-#### ⚙ Service (Serviço)
+Models: Define a estrutura dos dados, como um modelo de tarefa com título, descrição e status. Aqui, também são tratadas as regras de negócio.
 
-O Service é a camada onde a lógica de negócios acontece. Ele atua como intermediário entre o Repository e o Controller, garantindo que as regras do sistema sejam aplicadas antes da manipulação dos dados.
+Controllers: Recebe as requisições, processa com base nos Models e retorna a resposta adequada ao cliente (geralmente no formato JSON para APIs RESTful).
 
-Responsabilidades:
+Routes: Define os caminhos que a aplicação pode seguir (URLs) e qual Controller deve lidar com cada um deles.
 
-⚡ Aplicar regras de negócio.
+### ✅ Benefícios de usar MVC:
 
-⚡ Processar e validar os dados antes de enviá-los ao Repository.
+Organização: Código mais estruturado e fácil de entender.
 
-⚡ Evitar regras de negócio dentro do Controller.
+Manutenção facilitada: Alterações localizadas sem afetar todo o projeto.
 
-#### 🎯 Controller (Controlador)
+Reutilização: Componentes podem ser reaproveitados em diferentes partes do sistema.
 
-O Controller gerencia as requisições e respostas da API. Ele recebe os dados do cliente, chama o Service para processá-los e retorna a resposta apropriada.
+### 📌 Resumo:
 
-Responsabilidades:
+A arquitetura MVC ajuda a manter a organização e a eficiência em projetos Node.js, especialmente para quem está começando ou trabalha em equipe. Dominar essa estrutura é um passo importante para evoluir como desenvolvedor!
 
-🎯 Lidar com as requisições HTTP.
-
-🎯 Delegar a lógica de negócio para o Service.
-
-🎯 Retornar as respostas de forma padronizada.
-
-#### 🌐 Route (Rotas)
-
-A camada de Routes define os endpoints da API e direciona as requisições para os controllers corretos.
-
-Responsabilidades:
-
-🌍 Definir os caminhos da API.
-
-🌍 Direcionar as requisições para o Controller correspondente.
-
-🌍 Aplicar middlewares quando necessário.
-
-#### 🔄 Fluxo de Funcionamento
-
-🟢 O usuário faz uma requisição para um endpoint.
-
-🟢 A Route direciona a requisição para o Controller correspondente.
-
-🟢 O Controller chama o Service para aplicar regras de negócio.
-
-🟢 O Service consulta ou manipula os dados através do Repository.
-
-🟢 O Repository acessa o banco de dados e retorna a informação ao Service.
-
-🟢 O Service retorna os dados processados ao Controller.
-
-🟢 O Controller envia a resposta ao usuário.
-
-Essa estrutura modular facilita a manutenção, tornando o código mais organizado e escalável. 🚀
-
----
-<a href="./desafio.md">Página anterior</a>
