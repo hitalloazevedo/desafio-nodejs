@@ -6,10 +6,10 @@ O Sr. Atira Silva Sauro enfrenta dificuldades para gerenciar suas tarefas diári
 [Consultar estrutura do projeto](./project-arch.md)
 
 ### Guias básicos do que será utilizado
-#### [O que é git?](./instructions/git.md)
-#### [O que é node?](./instructions/node.md)
-#### [O que é express?](./instructions/express.md)
-#### [O que é visual studio code?](./instructions/express.md)
+#### [O que é git?](./git.md)
+#### [O que é node?](./node.md)
+#### [O que é express?](./express.md)
+#### [O que é visual studio code?](./vscode.md)
 
 ---
 <p><a href="../README.md">Página anterior</a>  	&#160;  	&#160; 	&#160; <a href="./configuracao-ambiente.md">Próxima página</a></p>
